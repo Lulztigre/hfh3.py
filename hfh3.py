@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# web=www.lulzsecurity-universal.nl
+
 # version=v0.1
-# author=~%Sensei%~
+# author=x0xr00t
 # Side Developers = Tigre, </>Gakusei<\>
 # name=hfh3.py
-# crew=Lulzsecurity-universal2014/2020
+
 
 # Gakusei has made further modifications to the program
 # Please be advised that we are adding many categories of further useragents.
